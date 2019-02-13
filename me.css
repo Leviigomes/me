@@ -1,0 +1,31 @@
+.intro {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    margin-top: 7%;
+}
+.intro img {
+    border-radius: 50%;
+    max-width: 15%;
+    max-height: 15%;
+    border: 7px solid white
+}
+body {
+    background-color:#0a1925;
+}
+.link-cinza {color: rgb(197, 197, 197);
+}
+
+a {
+    color: white
+}
+
+.lista-linha {
+    padding-left: 0;
+    list-style: none;
+}
+.lista-linha li{
+    display: inline-block;
+}
+.espaco-icone{
+    margin-right: 0.5%;
+}
