@@ -2,6 +2,7 @@
     color: rgb(255, 255, 255);
     text-align: center;
     margin-top: 7%;
+    font-family: 'Oxygen', sans-serif;
 }
 .intro img {
     border-radius: 50%;
@@ -28,4 +29,7 @@ a {
 }
 .espaco-icone{
     margin-right: 0.5%;
+}
+li{
+    font-family: 'Oxygen', sans-serif;
 }
