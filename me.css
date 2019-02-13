@@ -2,7 +2,8 @@
     color: rgb(255, 255, 255);
     text-align: center;
     margin-top: 7%;
-    font-family: 'Oxygen', sans-serif;
+    font-family: 'Open Sans:300', sans-serif;
+
 }
 .intro img {
     border-radius: 50%;
@@ -27,9 +28,10 @@ a {
 .lista-linha li{
     display: inline-block;
 }
-.espaco-icone{
-    margin-right: 0.5%;
+.espaco-direita {
+    margin-right: 1%;
 }
-li{
-    font-family: 'Oxygen', sans-serif;
+
+.espaco-esquerda {
+    margin-left: 1%;
 }
